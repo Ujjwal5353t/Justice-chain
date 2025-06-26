@@ -111,6 +111,7 @@ PINATA_API_KEY=your_pinata_key
 PINATA_SECRET_API_KEY=your_pinata_secret
 INFURA_API_KEY=your_infura_or_alchemy_key
 WALLET_PRIVATE_KEY=your_eth_wallet_private_key
+Contract_Address=0xF23133f1cd75C8AF6dEe73389BbB4C327697B82D
 ```
 
 ---
